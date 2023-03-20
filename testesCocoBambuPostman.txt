@@ -1,0 +1,6 @@
+Teste: Desafio Coco Bambu - requisição GET com o Postman
+
+ 1 Fiz uma requisição GET com o Postman para o endereço: https://app.cocobambu.com/delivery e foi retomado código de status 200 ou seja OK
+
+ 2 Testando na área Front a Seguinte dificuldade: Login apenas com a opção de cadastro de Facebook, não havendo o registro com 
+email pessoal;
